@@ -35,6 +35,7 @@ GET /jobs - List all jobs
 python
 "Compare resume skills {skills} with job requirements {job_desc}. 
 Provide score (1-10) with justification, strengths, and weaknesses."
+
 🎥 Demo
 https://drive.google.com/file/d/1EMjLNNwJurTdGpe5-IesACnM5A04WyFY/view?usp=sharing
 
